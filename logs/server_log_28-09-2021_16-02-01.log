@@ -1,0 +1,13 @@
+INFO  | 28-09-2021 16:02:02 | Server.Server - Сервер начал слушать клиентов. 
+INFO  | 28-09-2021 16:02:02 | Server.Server - Порт 3999 / Адрес DESKTOP-M5OG4G9/192.168.0.7
+INFO  | 28-09-2021 16:02:02 | Server.Server - Ожидаем подключения клиентов 
+INFO  | 28-09-2021 16:02:20 | Server.Server - Connection from: java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:1080]
+INFO  | 28-09-2021 16:02:20 | Server.Server - Connection from: java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:1082]
+INFO  | 28-09-2021 16:02:31 | Server.Server - Received command: Request[help, , null, User{login='admin', password='1234'}]
+INFO  | 28-09-2021 16:02:31 | Server.Server - Connection from: java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:1084]
+INFO  | 28-09-2021 16:03:43 | Server.Server - Connection from: java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:9035]
+INFO  | 28-09-2021 16:03:43 | Server.Server - Connection from: java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:9036]
+INFO  | 28-09-2021 16:03:46 | Server.Server - Received command: Request[help, , null, User{login='sd', password='sdsd'}]
+INFO  | 28-09-2021 16:03:46 | Server.Server - Connection from: java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:9037]
+INFO  | 28-09-2021 16:03:56 | Server.Server - Received command: Request[show, , null, User{login='sd', password='sdsd'}]
+INFO  | 28-09-2021 16:03:56 | Server.Server - Connection from: java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:9038]

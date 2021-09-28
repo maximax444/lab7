@@ -1,0 +1,23 @@
+INFO  | 28-09-2021 15:46:28 | Server.Server - Сервер начал слушать клиентов. 
+INFO  | 28-09-2021 15:46:28 | Server.Server - Порт 3999 / Адрес DESKTOP-M5OG4G9/192.168.0.7
+INFO  | 28-09-2021 15:46:28 | Server.Server - Ожидаем подключения клиентов 
+INFO  | 28-09-2021 15:46:28 | Server.Server - Connection from: java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:1058]
+INFO  | 28-09-2021 15:46:33 | Server.Server - Received command: Request[login, , null, User{login='admin', password='1234'}]
+INFO  | 28-09-2021 15:46:33 | Server.Server - Connection from: java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:27243]
+INFO  | 28-09-2021 15:46:33 | Server.Server - Connection from: java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:27244]
+INFO  | 28-09-2021 15:46:50 | Server.Server - Received command: Request[help, , null, User{login='admin', password='1234'}]
+INFO  | 28-09-2021 15:46:50 | Server.Server - Connection from: java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:27245]
+INFO  | 28-09-2021 15:46:53 | Server.Server - Received command: Request[info, , null, User{login='admin', password='1234'}]
+INFO  | 28-09-2021 15:46:53 | Server.Server - Connection from: java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:27246]
+INFO  | 28-09-2021 15:46:58 | Server.Server - Connection from: java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:12722]
+INFO  | 28-09-2021 15:47:05 | Server.Server - Received command: Request[login, , null, User{login='sd', password='sd'}]
+INFO  | 28-09-2021 15:47:05 | Server.Server - Connection from: java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:12726]
+INFO  | 28-09-2021 15:47:12 | Server.Server - Received command: Request[register, , null, User{login='sd', password='sdsd'}]
+INFO  | 28-09-2021 15:47:12 | Server.Server - Connection from: java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:12727]
+INFO  | 28-09-2021 15:47:12 | Server.Server - Connection from: java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:12728]
+INFO  | 28-09-2021 15:47:20 | Server.Server - Received command: Request[info, , null, User{login='sd', password='sdsd'}]
+INFO  | 28-09-2021 15:47:20 | Server.Server - Connection from: java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:12729]
+INFO  | 28-09-2021 15:47:48 | Server.Server - Received command: Request[add, , ProductSer{name='2', coordinates=Coordinates{x=2.0, y=2.0}, creationDate=2021-09-28T15:47:27.665390900, price=2, partNumber='22222222222222222222222222222222', manufactureCost=2.2222222222222223E32, unitOfMeasure=PCS, orgName='s', orgFullName='s', annualTurnover=2, type=TRUST, postalAddress=Address{zipCode='2', town=Location{x=2.0, y=2.0, name='2'}}}, User{login='admin', password='1234'}]
+INFO  | 28-09-2021 15:47:48 | Server.Server - Connection from: java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:12730]
+INFO  | 28-09-2021 15:47:53 | Server.Server - Received command: Request[show, , null, User{login='sd', password='sdsd'}]
+INFO  | 28-09-2021 15:47:53 | Server.Server - Connection from: java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:12731]

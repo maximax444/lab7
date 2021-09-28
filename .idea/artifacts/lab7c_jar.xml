@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="lab7c:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/lab7c_jar</output-path>
+    <root id="archive" name="lab7.jar">
+      <element id="module-output" name="lab7" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/postgresql-9.2-1002.jdbc4.jar" path-in-jar="/" />
+      <element id="library" level="project" name="lab5" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/gson-2.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/log4j-1.2-api-2.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/log4j-api-2.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/log4j-core-2.8.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

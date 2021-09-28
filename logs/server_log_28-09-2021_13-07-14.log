@@ -1,0 +1,17 @@
+INFO  | 28-09-2021 13:07:15 | Server.Server - Сервер начал слушать клиентов. 
+INFO  | 28-09-2021 13:07:15 | Server.Server - Порт 3999 / Адрес DESKTOP-M5OG4G9/192.168.0.7
+INFO  | 28-09-2021 13:07:15 | Server.Server - Ожидаем подключения клиентов 
+INFO  | 28-09-2021 13:07:18 | Server.Server - Connection from: java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:14227]
+INFO  | 28-09-2021 13:07:40 | Server.Server - Received command: Request[login, , null, User{login='admin', password='1234'}]
+INFO  | 28-09-2021 13:07:40 | Server.Server - закрытие : channel=java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:14227], selector=sun.nio.ch.WindowsSelectorImpl@1a942c18, interestOps=1, readyOps=1
+INFO  | 28-09-2021 13:07:40 | Server.Server - Connection from: java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:14231]
+INFO  | 28-09-2021 13:07:40 | Server.Server - Connection from: java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:14232]
+INFO  | 28-09-2021 13:07:56 | Server.Server - Received command: Request[help, , null, User{login='admin', password='1234'}]
+INFO  | 28-09-2021 13:07:56 | Server.Server - закрытие : channel=java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:14232], selector=sun.nio.ch.WindowsSelectorImpl@1a942c18, interestOps=1, readyOps=1
+INFO  | 28-09-2021 13:07:56 | Server.Server - Connection from: java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:31896]
+INFO  | 28-09-2021 13:09:18 | Server.Server - Received command: Request[add, , ProductSer{name='12', coordinates=Coordinates{x=2.0, y=3.0}, creationDate=2021-09-28T13:08:59.555502, price=4, partNumber='22222222222222222222222222222222222222', manufactureCost=3.0, unitOfMeasure=PCS, orgName='d', orgFullName='d', annualTurnover=2, type=TRUST, postalAddress=Address{zipCode='2', town=Location{x=2.0, y=2.0, name='2'}}}, User{login='admin', password='1234'}]
+INFO  | 28-09-2021 13:09:18 | Server.Server - закрытие : channel=java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:31896], selector=sun.nio.ch.WindowsSelectorImpl@1a942c18, interestOps=1, readyOps=1
+INFO  | 28-09-2021 13:09:18 | Server.Server - Connection from: java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:17061]
+INFO  | 28-09-2021 13:09:33 | Server.Server - Received command: Request[info, , null, User{login='admin', password='1234'}]
+INFO  | 28-09-2021 13:09:33 | Server.Server - закрытие : channel=java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:17061], selector=sun.nio.ch.WindowsSelectorImpl@1a942c18, interestOps=1, readyOps=1
+INFO  | 28-09-2021 13:09:33 | Server.Server - Connection from: java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:17063]

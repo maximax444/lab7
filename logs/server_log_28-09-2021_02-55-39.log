@@ -1,0 +1,12 @@
+INFO  | 28-09-2021 02:55:39 | Server.Server - Сервер начал слушать клиентов. 
+INFO  | 28-09-2021 02:55:39 | Server.Server - Порт 3999 / Адрес DESKTOP-M5OG4G9/192.168.0.7
+INFO  | 28-09-2021 02:55:39 | Server.Server - Ожидаем подключения клиентов 
+INFO  | 28-09-2021 02:55:39 | Server.Server - Connection from: java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:23612]
+ERROR | 28-09-2021 02:55:50 | Server.Server - IOException java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:23612]
+INFO  | 28-09-2021 02:55:52 | Server.Server - Connection from: java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:23624]
+INFO  | 28-09-2021 02:55:56 | Server.Server - Received command: Request[login, , null]
+INFO  | 28-09-2021 02:55:56 | Server.Server - закрытие : channel=java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:23624], selector=sun.nio.ch.WindowsSelectorImpl@29f7cefd, interestOps=1, readyOps=1
+INFO  | 28-09-2021 02:55:56 | Server.Server - Connection from: java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:23628]
+INFO  | 28-09-2021 02:56:08 | Server.Server - Received command: Request[login, , null]
+INFO  | 28-09-2021 02:56:08 | Server.Server - закрытие : channel=java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:23628], selector=sun.nio.ch.WindowsSelectorImpl@29f7cefd, interestOps=1, readyOps=1
+INFO  | 28-09-2021 02:56:08 | Server.Server - Connection from: java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:23629]

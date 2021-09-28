@@ -1,0 +1,14 @@
+INFO  | 28-09-2021 03:29:13 | Server.Server - Сервер начал слушать клиентов. 
+INFO  | 28-09-2021 03:29:13 | Server.Server - Порт 3999 / Адрес DESKTOP-M5OG4G9/192.168.0.7
+INFO  | 28-09-2021 03:29:13 | Server.Server - Ожидаем подключения клиентов 
+INFO  | 28-09-2021 03:29:13 | Server.Server - Connection from: java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:1060]
+INFO  | 28-09-2021 03:29:20 | Server.Server - Received command: Request[register, , null, User{login='sd', password='sd'}]
+INFO  | 28-09-2021 03:29:20 | Server.Server - закрытие : channel=java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:1060], selector=sun.nio.ch.WindowsSelectorImpl@51891008, interestOps=1, readyOps=1
+INFO  | 28-09-2021 03:29:20 | Server.Server - Connection from: java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:1084]
+INFO  | 28-09-2021 03:29:43 | Server.Server - Received command: Request[register, , null, User{login='sd1', password='123'}]
+INFO  | 28-09-2021 03:29:43 | Server.Server - закрытие : channel=java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:1084], selector=sun.nio.ch.WindowsSelectorImpl@51891008, interestOps=1, readyOps=1
+INFO  | 28-09-2021 03:29:43 | Server.Server - Connection from: java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:1086]
+INFO  | 28-09-2021 03:29:43 | Server.Server - Connection from: java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:1087]
+INFO  | 28-09-2021 03:29:48 | Server.Server - Received command: Request[help, , null, null]
+INFO  | 28-09-2021 03:29:48 | Server.Server - закрытие : channel=java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:1087], selector=sun.nio.ch.WindowsSelectorImpl@51891008, interestOps=1, readyOps=1
+INFO  | 28-09-2021 03:29:48 | Server.Server - Connection from: java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:1052]

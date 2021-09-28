@@ -1,0 +1,14 @@
+INFO  | 28-09-2021 03:22:55 | Server.Server - Сервер начал слушать клиентов. 
+INFO  | 28-09-2021 03:22:55 | Server.Server - Порт 3999 / Адрес DESKTOP-M5OG4G9/192.168.0.7
+INFO  | 28-09-2021 03:22:55 | Server.Server - Ожидаем подключения клиентов 
+INFO  | 28-09-2021 03:23:04 | Server.Server - Connection from: java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:1075]
+INFO  | 28-09-2021 03:23:08 | Server.Server - Received command: Request[login, , null, User{login='ыв', password='ыв'}]
+INFO  | 28-09-2021 03:23:09 | Server.Server - закрытие : channel=java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:1075], selector=sun.nio.ch.WindowsSelectorImpl@51891008, interestOps=1, readyOps=1
+INFO  | 28-09-2021 03:23:09 | Server.Server - Connection from: java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:30368]
+INFO  | 28-09-2021 03:23:14 | Server.Server - Received command: Request[login, , null, User{login='sd', password='sd'}]
+INFO  | 28-09-2021 03:23:14 | Server.Server - закрытие : channel=java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:30368], selector=sun.nio.ch.WindowsSelectorImpl@51891008, interestOps=1, readyOps=1
+INFO  | 28-09-2021 03:23:14 | Server.Server - Connection from: java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:30369]
+INFO  | 28-09-2021 03:23:21 | Server.Server - Received command: Request[login, , null, User{login='sd', password='sdsdsd'}]
+INFO  | 28-09-2021 03:23:21 | Server.Server - закрытие : channel=java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:30369], selector=sun.nio.ch.WindowsSelectorImpl@51891008, interestOps=1, readyOps=1
+INFO  | 28-09-2021 03:23:21 | Server.Server - Connection from: java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:30370]
+INFO  | 28-09-2021 03:23:21 | Server.Server - Connection from: java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:30371]

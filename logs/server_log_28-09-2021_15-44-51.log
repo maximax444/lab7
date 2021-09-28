@@ -1,0 +1,6 @@
+INFO  | 28-09-2021 15:44:52 | Server.Server - Сервер начал слушать клиентов. 
+INFO  | 28-09-2021 15:44:52 | Server.Server - Порт 3999 / Адрес DESKTOP-M5OG4G9/192.168.0.7
+INFO  | 28-09-2021 15:44:52 | Server.Server - Ожидаем подключения клиентов 
+INFO  | 28-09-2021 15:44:56 | Server.Server - Connection from: java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:1061]
+INFO  | 28-09-2021 15:45:03 | Server.Server - Received command: Request[login, , null, User{login='admin', password='1234'}]
+ERROR | 28-09-2021 15:45:03 | Server.Server - IOException java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:1061]

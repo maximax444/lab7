@@ -1,0 +1,7 @@
+INFO  | 28-09-2021 03:06:48 | Server.Server - Сервер начал слушать клиентов. 
+INFO  | 28-09-2021 03:06:48 | Server.Server - Порт 3999 / Адрес DESKTOP-M5OG4G9/192.168.0.7
+INFO  | 28-09-2021 03:06:48 | Server.Server - Ожидаем подключения клиентов 
+INFO  | 28-09-2021 03:06:52 | Server.Server - Connection from: java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:1076]
+INFO  | 28-09-2021 03:06:57 | Server.Server - Received command: Request[login, , null, User{login='sd', password='sdsdsd'}]
+INFO  | 28-09-2021 03:06:57 | Server.Server - закрытие : channel=java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:1076], selector=sun.nio.ch.WindowsSelectorImpl@6f36c2f0, interestOps=1, readyOps=1
+INFO  | 28-09-2021 03:06:57 | Server.Server - Connection from: java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:1079]

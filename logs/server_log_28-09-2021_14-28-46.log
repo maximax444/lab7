@@ -1,0 +1,4 @@
+INFO  | 28-09-2021 14:28:47 | Server.Server - Сервер начал слушать клиентов. 
+INFO  | 28-09-2021 14:28:47 | Server.Server - Порт 3999 / Адрес DESKTOP-M5OG4G9/192.168.0.7
+INFO  | 28-09-2021 14:28:47 | Server.Server - Ожидаем подключения клиентов 
+INFO  | 28-09-2021 14:28:50 | Server.Server - Connection from: java.nio.channels.SocketChannel[connected local=/127.0.0.1:3999 remote=/127.0.0.1:4259]
